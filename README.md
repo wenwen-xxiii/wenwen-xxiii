@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wendell</h1>
-<h3 align="center">A passionate software developer from the Philippines 🇵🇭</h3>
+<h3 align="center">A passionate student and still learning from the Philippines 🇵🇭</h3>
 
 ---
 
 ### 🚀 About Me  
-💻 I'm currently working as a **software and system developer**  
-🎯 I specialize in **C# Windows Forms**, **MySQL**, and **networked applications**  
+💻 I'm currently working on **C# Windows Forms** and **MySQL** projects  
+🎯 I’m exploring how to build **ticketing systems** and **POS applications**  
 ☕ I love **coffee** and watching **NetworkChuck** ☕  
 
 ---
@@ -17,7 +17,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery)
 
 #### 💻 Desktop & Mobile Development  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,7 +39,6 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql)
 
 ---
@@ -48,19 +46,18 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wenwen-xxiii&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen-xxiii&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:rebusitwendell.pdm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/wenwen-xxiii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 </p>
