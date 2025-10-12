@@ -40,7 +40,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="6"><b>⚙️ Back-End</b></td>
+    <td align="center" colspan="7"><b>⚙️ Back-End</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -54,6 +54,9 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40"/><br>Laravel
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
