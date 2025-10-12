@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wendell</h1>
-<h3 align="center">A passionate software developer from the Philippines 🇵🇭</h3>
 
 ---
 
@@ -8,7 +7,10 @@
 <p align="center">
   💻 I'm currently working on <b>C# Windows Forms</b> and <b>MySQL</b> projects<br>
   🎯 I’m exploring how to build <b>ticketing systems</b> and <b>POS applications</b><br>
-  ☕ I love <b>coffee</b> and watching <b>NetworkChuck</b> ☕
+  ⚙️ Learning <b>Laravel</b> to expand my back-end development skills<br>
+  💳 Exploring <b>billing systems</b> and <b>payment gateway integrations</b><br><br>
+  ☕ I love <b>coffee</b> and watching <b>NetworkChuck</b><br>
+  🌏 A passionate software developer from the <b>Philippines 🇵🇭</b>, continuously learning and improving
 </p>
 
 ---
