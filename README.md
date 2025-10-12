@@ -56,7 +56,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40"/><br>Laravel
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-line-wordmark.svg" width="40"/><br>Laravel
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
