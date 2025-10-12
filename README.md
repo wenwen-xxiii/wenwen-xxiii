@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=wenwen-xxiii&label=visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Wendell</h1>
 
 ---
