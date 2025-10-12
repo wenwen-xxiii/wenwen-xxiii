@@ -13,45 +13,70 @@
 
 ---
 
-<h2 align="center">🧠 Languages, Frameworks & Tools</h2>
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" colspan="5"><b>🌐 Front-End</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+    </td>
+  </tr>
+</table>
 
-  <!-- Front-End -->
-  <h3>🌐 Front-End</h3>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<table align="center">
+  <tr>
+    <td align="center" colspan="6"><b>⚙️ Back-End</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br>.NET
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+  </tr>
+</table>
 
-  <!-- Desktop & Mobile -->
-  <h3>💻 Desktop & Mobile Development</h3>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/-Windows%20Forms-0078D6?style=for-the-badge&logo=windows"/>
-  <img src="https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity"/>
-
-  <!-- Back-End -->
-  <h3>⚙️ Back-End</h3>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express"/>
-
-  <!-- Databases -->
-  <h3>🗄️ Databases</h3>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp"/>
-
-  <!-- Tools -->
-  <h3>🧰 Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/-MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql"/>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="3"><b>🗄️ Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/><br>MariaDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>SQL Workbench
+    </td>
+  </tr>
+</table>
 
 ---
 
