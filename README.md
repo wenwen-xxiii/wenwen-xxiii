@@ -93,10 +93,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wenwen-xxiii&show_icons=true&theme=tokyonight" />
-  <br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wenwen-xxiii/wenwen-xxiii/main/e64bc707-65c5-487b-9eca-ca1bcd593071.png" width="48%" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
+</p>
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
