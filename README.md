@@ -99,6 +99,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wenwen-xxiii/wenwen-xxiii/main/assets/29addb49-65c1-494d-80b3-0f9544c9026a.png" width="80%" alt="Contribution Graph" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
