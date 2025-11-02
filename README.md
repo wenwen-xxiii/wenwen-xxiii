@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen-xxiii&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen-xxiii&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
