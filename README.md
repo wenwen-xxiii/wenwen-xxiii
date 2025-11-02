@@ -92,17 +92,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wenwen-xxiii&show_icons=true&theme=tokyonight" />
-  
-  <!-- GitHub Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img width="80%" src="https://raw.githubusercontent.com/wenwen-xxiii/wenwen-xxiii/main/assets/29addb49-65c1-494d-80b3-0f9544c9026a.png" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenwen-xxiii&theme=tokyonight" />
 </p>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wenwen-xxiii&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days" />
 
 ---
 
