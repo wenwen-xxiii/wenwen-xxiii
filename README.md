@@ -26,7 +26,7 @@
 💻 Laravel developer focused on system development<br>
 📡 Interested in MikroTik, networking, and ISP operations<br>
 🌐 Builds ticketing, billing, and monitoring systems<br>
-⚙️ Explores Node.js, Firebase, and Supabase<br>
+⚙️ Explores Node.js, Firebase, Supabase, and MongoDB<br>
 ☕ Coffee lover and continuous learner
 </p>
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚡ Core Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,firebase,supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,typescript,mongodb,firebase,supabase&theme=dark"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 <table align="center" width="80%" cellpadding="10" cellspacing="12">
 
 <tr>
-<td colspan="5" align="center">
+<td colspan="6" align="center">
 <img src="https://img.shields.io/badge/FRONT--END-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8"/>
 </td>
 </tr>
@@ -55,6 +55,7 @@
 <td><img src="https://skillicons.dev/icons?i=css" width="60"/><br><br><sub><b>CSS</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br><br><sub><b>Bootstrap</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><br><sub><b>JavaScript</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=typescript" width="60"/><br><br><sub><b>TypeScript</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=react" width="60"/><br><br><sub><b>React</b></sub></td>
 </tr>
 
@@ -74,7 +75,7 @@
 </tr>
 
 <tr>
-<td colspan="5" align="center">
+<td colspan="6" align="center">
 <img src="https://img.shields.io/badge/DATABASES%20%26%20SERVICES-0f172a?style=for-the-badge&logo=databricks&logoColor=a855f7"/>
 </td>
 </tr>
@@ -83,6 +84,7 @@
 <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br><br><sub><b>MySQL</b></sub></td>
 <td><img src="https://cdn.simpleicons.org/mariadb/003545" width="60"/><br><br><sub><b>MariaDB</b></sub></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/><br><br><sub><b>SQL Server</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br><br><sub><b>MongoDB</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br><br><sub><b>Firebase</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=supabase" width="60"/><br><br><sub><b>Supabase</b></sub></td>
 </tr>
