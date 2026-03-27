@@ -88,7 +88,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="54" /><br><br>MySQL</td>
     <td align="center"><img src="https://cdn.simpleicons.org/mariadb/003545" width="54" height="54" /><br><br>MariaDB</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="54" height="54" /><br><br>SQL Server</td>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="54" /><br><br>Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="54" /><br><br>Supabase</td>
   </tr>
