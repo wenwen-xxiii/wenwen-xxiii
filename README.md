@@ -35,7 +35,7 @@
 <h2 align="center">⚡ Core Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,typescript,mongodb,firebase,supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,typescript,supabase&theme=dark"/>
 </p>
 
 ---
