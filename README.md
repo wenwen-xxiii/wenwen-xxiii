@@ -48,49 +48,95 @@
 
 ---
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks &amp; Tools ⚒️</h2>
 
-<table align="center" width="95%" border="1" cellspacing="0" cellpadding="14">
+<table align="center" width="95%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center;">
   <tr>
-    <td colspan="5" align="center"><b>🌐 Front End</b></td>
+    <td colspan="5" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
+      🌐 Front-End
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="54" /><br><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="54" /><br><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="54" /><br><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="54" /><br><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="54" /><br><br>React</td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=html" width="52" /><br><br>
+      HTML
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=css" width="52" /><br><br>
+      CSS
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="52" /><br><br>
+      Bootstrap
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=javascript" width="52" /><br><br>
+      JavaScript
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=react" width="52" /><br><br>
+      React
+    </td>
   </tr>
-</table>
 
-<br>
-
-<table align="center" width="95%" border="1" cellspacing="0" cellpadding="14">
   <tr>
-    <td colspan="6" align="center"><b>⚙️ Back End</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="54" /><br><br>Laravel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="54" /><br><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="54" /><br><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="54" /><br><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="54" /><br><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="54" /><br><br>C#</td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center" width="95%" border="1" cellspacing="0" cellpadding="14">
-  <tr>
-    <td colspan="5" align="center"><b>🗄️ Database and Backend Services</b></td>
+    <td colspan="6" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
+      ⚙️ Back-End
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="54" /><br><br>MySQL</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/mariadb/003545" width="54" height="54" /><br><br>MariaDB</td>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="54" /><br><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="54" /><br><br>Supabase</td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=laravel" width="52" /><br><br>
+      Laravel
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=php" width="52" /><br><br>
+      PHP
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="52" /><br><br>
+      Node.js
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=express" width="52" /><br><br>
+      Express
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=python" width="52" /><br><br>
+      Python
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
+      <img src="https://skillicons.dev/icons?i=cs" width="52" /><br><br>
+      C#
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
+      🗄️ Database and Backend Services
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" /><br><br>
+      MySQL
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://cdn.simpleicons.org/mariadb/003545" width="52" height="52" /><br><br>
+      MariaDB
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="52" /><br><br>
+      SQL Server
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="52" /><br><br>
+      Firebase
+    </td>
+    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
+      <img src="https://skillicons.dev/icons?i=supabase" width="52" /><br><br>
+      Supabase
+    </td>
   </tr>
 </table>
 
