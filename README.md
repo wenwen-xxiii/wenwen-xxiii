@@ -50,92 +50,76 @@
 
 <h2 align="center">⚒️ Languages, Frameworks &amp; Tools ⚒️</h2>
 
-<table align="center" width="95%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+<table align="center" width="95%" cellpadding="10" cellspacing="12">
   <tr>
-    <td colspan="5" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
-      🌐 Front-End
+    <td colspan="5" align="center">
+      <img src="https://img.shields.io/badge/FRONT--END-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=html" width="52" /><br><br>
-      HTML
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="56" /><br><br><sub><b>HTML</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=css" width="52" /><br><br>
-      CSS
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="56" /><br><br><sub><b>CSS</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="52" /><br><br>
-      Bootstrap
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" /><br><br><sub><b>Bootstrap</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=javascript" width="52" /><br><br>
-      JavaScript
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="56" /><br><br><sub><b>JavaScript</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=react" width="52" /><br><br>
-      React
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="56" /><br><br><sub><b>React</b></sub>
     </td>
   </tr>
 
   <tr>
-    <td colspan="6" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
-      ⚙️ Back-End
+    <td colspan="6" align="center">
+      <img src="https://img.shields.io/badge/BACK--END-0f172a?style=for-the-badge&logo=serverfault&logoColor=f59e0b" />
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=laravel" width="52" /><br><br>
-      Laravel
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="56" /><br><br><sub><b>Laravel</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=php" width="52" /><br><br>
-      PHP
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="56" /><br><br><sub><b>PHP</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="52" /><br><br>
-      Node.js
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" /><br><br><sub><b>Node.js</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=express" width="52" /><br><br>
-      Express
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="56" /><br><br><sub><b>Express</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=python" width="52" /><br><br>
-      Python
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="56" /><br><br><sub><b>Python</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 16.66%;">
-      <img src="https://skillicons.dev/icons?i=cs" width="52" /><br><br>
-      C#
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="56" /><br><br><sub><b>C#</b></sub>
     </td>
   </tr>
 
   <tr>
-    <td colspan="5" style="padding: 10px; border: 1px solid #30363d; font-weight: bold;">
-      🗄️ Database and Backend Services
+    <td colspan="5" align="center">
+      <img src="https://img.shields.io/badge/DATABASES%20%26%20SERVICES-0f172a?style=for-the-badge&logo=databricks&logoColor=a855f7" />
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" /><br><br>
-      MySQL
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="56" /><br><br><sub><b>MySQL</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://cdn.simpleicons.org/mariadb/003545" width="52" height="52" /><br><br>
-      MariaDB
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mariadb/003545" width="56" height="56" /><br><br><sub><b>MariaDB</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="52" /><br><br>
-      SQL Server
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="56" /><br><br><sub><b>SQL Server</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="52" /><br><br>
-      Firebase
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="56" /><br><br><sub><b>Firebase</b></sub>
     </td>
-    <td style="border: 1px solid #30363d; padding: 14px; width: 20%;">
-      <img src="https://skillicons.dev/icons?i=supabase" width="52" /><br><br>
-      Supabase
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="56" /><br><br><sub><b>Supabase</b></sub>
     </td>
   </tr>
 </table>
