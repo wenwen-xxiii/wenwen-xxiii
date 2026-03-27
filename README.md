@@ -100,22 +100,6 @@
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
-
-<p align="center">
-  <b>RaciServe</b><br>
-  A Web-Based and Mobile Support Ticketing and Job Order Assignment System<br>
-  with MikroTik RouterOS Network Monitoring
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-System-FF2D20?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/MikroTik-Integration-ff8c00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ISP-Network%20Monitoring-1e90ff?style=for-the-badge"/>
-</p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
