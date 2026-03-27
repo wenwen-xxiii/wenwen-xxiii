@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff8c00,50:ffb347,100:1e90ff&text=Wendell%20Rebusit&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Laravel%20Developer%20|%20MikroTik%20|%20ISP%20Systems%20|%20MySQL&descAlign=50&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e293b,65:ff8c00,100:1e90ff&text=Wendell%20Rebusit&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Laravel%20Developer%20%7C%20MikroTik%20%7C%20ISP%20Systems%20%7C%20MySQL&descAlign=50&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Wendell+Rebusit;Laravel+Developer;MikroTik+and+ISP+System+Enthusiast;Building+Ticketing%2C+Billing%2C+and+Monitoring+Systems;Coffee+Lover+and+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=950&lines=Hi+there%2C+I'm+Wendell+Rebusit;Laravel+Developer;MikroTik+and+ISP+System+Enthusiast;Building+Ticketing%2C+Billing%2C+and+Monitoring+Systems;Coffee+Lover+and+Always+Learning" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile</h1>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focused%20On-Laravel%20%26%20MikroTik-ff8c00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Specialization-ISP%20Systems-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20In-Philippines-ff8c00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20In-Philippines-0f172a?style=for-the-badge&logo=googlemaps&logoColor=ff8c00" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
   💻 I specialize in <b>Laravel-based systems</b> and <b>database-driven applications</b><br>
   📡 I have a strong interest in <b>MikroTik RouterOS</b>, <b>ISP operations</b>, and <b>network monitoring systems</b><br>
   🌐 I build <b>ticketing systems</b>, <b>billing platforms</b>, and <b>web applications</b><br>
-  🧾 I enjoy developing solutions for <b>real-world ISP workflows</b> and support operations<br>
-  ⚙️ I also explore <b>Node.js</b>, <b>Firebase</b>, and <b>Supabase</b> as supporting technologies<br>
+  🧾 I enjoy developing solutions for <b>real world ISP workflows</b> and support operations<br>
+  ⚙️ I also explore <b>Node.js</b> and <b>Supabase</b> as supporting technologies<br>
   ☕ Coffee lover and continuous learner
 </p>
 
@@ -36,44 +36,78 @@
 <h2 align="center">⚡ Core Stack</h2>
 
 <p align="center">
-  <!-- Firebase removed here -->
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,supabase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,supabase&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Web%20Development-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-Networking%20and%20Monitoring-ff8c00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-Database%20Management-1e90ff?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-<p align="center"><b>🌐 Front End</b></p>
+<table align="center" width="100%">
+  <tr>
+    <td colspan="8" align="center">
+      <img src="https://img.shields.io/badge/Front--End-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="52"/><br><sub>HTML</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="52"/><br><sub>CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="52"/><br><sub>Bootstrap</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="52"/><br><sub>Tailwind</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="52"/><br><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="52"/><br><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="52"/><br><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jquery/0769AD" width="52" height="52"/><br><sub>jQuery</sub></td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+  <tr>
+    <td colspan="8" align="center">
+      <img src="https://img.shields.io/badge/Mobile%20Development-0f172a?style=for-the-badge&logo=android&logoColor=22c55e" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="52"/><br><sub>React Native</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/expo/ffffff" width="52" height="52"/><br><sub>Expo</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="52"/><br><sub>Unity</sub></td>
+    <td colspan="5"></td>
+  </tr>
 
-<p align="center"><b>⚙️ Back End</b></p>
+  <tr>
+    <td colspan="8" align="center">
+      <img src="https://img.shields.io/badge/Back--End-0f172a?style=for-the-badge&logo=serverfault&logoColor=f59e0b" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="52"/><br><sub>C++</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="52"/><br><sub>C#</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="52"/><br><sub>Java</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="52"/><br><sub>PHP</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="52"/><br><sub>Laravel</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="52"/><br><sub>Flask</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="52"/><br><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="52"/><br><sub>Supabase</sub></td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-<p align="center"><b>🗄️ Database and Backend Services</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+  <tr>
+    <td colspan="8" align="center">
+      <img src="https://img.shields.io/badge/Databases-0f172a?style=for-the-badge&logo=databricks&logoColor=a855f7" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="52"/><br><sub>MySQL</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="52" height="52"/><br><sub>MS SQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="52"/><br><sub>SQLite</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="52"/><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mariadb" width="52"/><br><sub>MariaDB</sub></td>
+    <td colspan="3"></td>
+  </tr>
+</table>
 
 ---
 
@@ -82,8 +116,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-Web%20System%20Development-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MikroTik-RouterOS%20Configuration-ff8c00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ISP-Ticketing%20%26%20Monitoring-1e90ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network-OLT%20%2F%20NAP%20%2F%20ONU-ff8c00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ISP-Ticketing%20and%20Monitoring-1e90ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network-OLT%20%2F%20NAP%20%2F%20ONU-0f172a?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -91,12 +125,16 @@
 <h2 align="center">🌐 Networking & ISP Systems</h2>
 
 <p align="center">
-  📡 MikroTik Router (Core Network Controller)<br>
-  🔌 OLT → LCP → NAP → ONU Architecture<br>
-  📊 Network Monitoring Integration<br>
-  🧾 ISP Ticketing and Job Order Systems<br>
-  📍 GIS Mapping for Subscribers and NAP Locations<br>
-  ⚡ VLAN Configuration and Bandwidth Management
+  📡 MikroTik Router as core network controller<br>
+  🔌 OLT → LCP → NAP → ONU architecture<br>
+  📊 Network monitoring integration<br>
+  🧾 ISP ticketing and job order systems<br>
+  📍 GIS mapping for subscribers and NAP locations<br>
+  ⚡ VLAN configuration and bandwidth management
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-OLT%20%E2%86%92%20LCP%20%E2%86%92%20NAP%20%E2%86%92%20ONU-1e90ff?style=for-the-badge" />
 </p>
 
 ---
@@ -132,12 +170,12 @@
     <img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/wendzxxiii/">
-    <img src="https://img.shields.io/badge/Facebook-ff8c00?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=ff8c00" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,50:ffb347,100:1e90ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:1e293b,65:ff8c00,100:1e90ff" />
 </p>
