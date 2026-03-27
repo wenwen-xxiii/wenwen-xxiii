@@ -36,7 +36,8 @@
 <h2 align="center">⚡ Core Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,firebase,supabase&theme=light" />
+  <!-- Firebase removed here -->
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,react,supabase&theme=light" />
 </p>
 
 ---
