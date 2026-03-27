@@ -50,27 +50,46 @@
 
 <h2 align="center">⚒️ Languages, Frameworks &amp; Tools ⚒️</h2>
 
-<table align="center" width="95%" cellpadding="10" cellspacing="12">
+<table align="center" width="95%" cellpadding="8" cellspacing="12">
   <tr>
     <td colspan="5" align="center">
       <img src="https://img.shields.io/badge/FRONT--END-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="56" /><br><br><sub><b>HTML</b></sub>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=html" width="56" /><br><br>
+      <sub><b>HTML</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="56" /><br><br><sub><b>CSS</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=css" width="56" /><br><br>
+      <sub><b>CSS</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" /><br><br><sub><b>Bootstrap</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="56" /><br><br>
+      <sub><b>Bootstrap</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="56" /><br><br><sub><b>JavaScript</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="56" /><br><br>
+      <sub><b>JavaScript</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="56" /><br><br><sub><b>React</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=react" width="56" /><br><br>
+      <sub><b>React</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
   </tr>
 
@@ -80,23 +99,46 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel" width="56" /><br><br><sub><b>Laravel</b></sub>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=laravel" width="56" /><br><br>
+      <sub><b>Laravel</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="56" /><br><br><sub><b>PHP</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=php" width="56" /><br><br>
+      <sub><b>PHP</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="56" /><br><br><sub><b>Node.js</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" /><br><br>
+      <sub><b>Node.js</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="56" /><br><br><sub><b>Express</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=express" width="56" /><br><br>
+      <sub><b>Express</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="56" /><br><br><sub><b>Python</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=python" width="56" /><br><br>
+      <sub><b>Python</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="56" /><br><br><sub><b>C#</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=cs" width="56" /><br><br>
+      <sub><b>C#</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
   </tr>
 
@@ -106,20 +148,39 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="56" /><br><br><sub><b>MySQL</b></sub>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="56" /><br><br>
+      <sub><b>MySQL</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/mariadb/003545" width="56" height="56" /><br><br><sub><b>MariaDB</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://cdn.simpleicons.org/mariadb/003545" width="56" height="56" /><br><br>
+      <sub><b>MariaDB</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="56" /><br><br><sub><b>SQL Server</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="56" /><br><br>
+      <sub><b>SQL Server</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase" width="56" /><br><br><sub><b>Firebase</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=firebase" width="56" /><br><br>
+      <sub><b>Firebase</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=supabase" width="56" /><br><br><sub><b>Supabase</b></sub>
+
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" /><br>
+      <img src="https://skillicons.dev/icons?i=supabase" width="56" /><br><br>
+      <sub><b>Supabase</b></sub><br>
+      <img src="https://img.shields.io/badge/%20-111827?style=for-the-badge" />
     </td>
   </tr>
 </table>
