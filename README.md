@@ -100,18 +100,6 @@
 
 ---
 
-<h2 align="center">🛠️ What I Build</h2>
-
-<p align="center">
-  ✔ Web-Based Ticketing Systems using Laravel<br>
-  ✔ Job Order Assignment Systems for Field Technicians<br>
-  ✔ ISP Monitoring Dashboards with MikroTik Integration<br>
-  ✔ Billing and Payment Systems with API Integration<br>
-  ✔ Subscriber Management Systems
-</p>
-
----
-
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
