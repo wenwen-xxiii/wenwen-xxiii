@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:1e293b,70:ff8c00,100:1e90ff&text=Wendell%20Rebusit&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Laravel%20Developer%20|%20MikroTik%20|%20ISP%20Systems%20|%20MySQL&descAlign=50&descAlignY=58&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:1e293b,70:ff8c00,100:1e90ff&text=Wendell&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Laravel%20Developer%20|%20MikroTik%20|%20ISP%20Systems%20|%20MySQL&descAlign=50&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi+I'm+Wendell+Rebusit;Laravel+Developer;MikroTik+and+ISP+System+Enthusiast;Building+Ticketing+and+Monitoring+Systems;Coffee+Lover"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=Hi+I'm+Wendell;Laravel+Developer;MikroTik+and+ISP+System+Enthusiast;Building+Ticketing+and+Monitoring+Systems;Coffee+Lover"/>
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile</h1>
