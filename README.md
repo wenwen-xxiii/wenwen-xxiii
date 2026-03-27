@@ -50,53 +50,105 @@
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FRONT--END-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
-</p>
+<table align="center" width="95%" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <td colspan="8" align="center"><b>🌐 Front-End</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=html" width="55" /><br>HTML
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=css" width="55" /><br>CSS
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br>Bootstrap
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br>Tailwind
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=react" width="55" /><br>React
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=javascript" width="55" /><br>JavaScript
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://skillicons.dev/icons?i=typescript" width="55" /><br>TypeScript
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="55" height="55" /><br>jQuery
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+  <tr>
+    <td colspan="8" align="center"><b>📱 Mobile Development</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="55" height="55" /><br>React Native
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/expo/ffffff" width="55" height="55" /><br>Expo
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=unity" width="55" /><br>Unity
+    </td>
+    <td colspan="5"></td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BACK--END-0f172a?style=for-the-badge&logo=serverfault&logoColor=f59e0b" />
-</p>
+  <tr>
+    <td colspan="8" align="center"><b>🧠 Back-End</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" /><br>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="55" /><br>C#
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="55" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="55" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" /><br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="55" /><br>Supabase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" /><br>Flask
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br>Node.js
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DATABASES%20%26%20SERVICES-0f172a?style=for-the-badge&logo=databricks&logoColor=a855f7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">🧠 Specialization</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Web%20System%20Development-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MikroTik-RouterOS%20Configuration-ff8c00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ISP-Ticketing%20%26%20Monitoring-1e90ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL%20Design-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  <tr>
+    <td colspan="8" align="center"><b>🗄️ Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" /><br>MS SQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br>SQLite
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mariadb" width="55" /><br>MariaDB
+    </td>
+    <td colspan="3"></td>
+  </tr>
+</table>
 
 ---
 
