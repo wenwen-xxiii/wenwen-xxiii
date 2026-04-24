@@ -93,19 +93,6 @@
 
 ---
 
-<h2 align="center">🌐 Networking & ISP Systems</h2>
-
-<p align="center">
-📡 MikroTik Router<br>
-🔌 OLT → LCP → NAP → ONU<br>
-📊 Monitoring and troubleshooting<br>
-🧾 Ticketing and job orders<br>
-📍 Subscriber mapping<br>
-⚡ VLAN and bandwidth control
-</p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
